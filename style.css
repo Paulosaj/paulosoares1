@@ -1,0 +1,112 @@
+body{background-image: url(photo-1505826673224-619d1494b8df.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;	
+}
+
+.Barra{
+	background-color: white;
+	height: 60px;
+	font-size: 0.3em;
+	font-style: normal; 
+
+	
+
+}
+.Descrição{
+	text-align: center;
+	color:white;
+	font-family: new times roman;
+	font-style: normal;
+	font-size: 1.2em;
+
+}
+.Descrição p{
+	color:gray;
+}
+
+
+a {
+	font-size: 5em;
+}
+
+
+a:link{
+	color:white;
+}
+
+nav{
+	position: center;
+}
+
+.fimg{
+	height: 40px;
+	width: 40px;
+}
+
+.logo{
+	height: 45px;
+	width: 45px;
+}
+
+.logo{
+	height: 45px;
+	width: 45px;
+}
+
+.cornav{
+	color: black !important;
+}
+
+.logo {
+	height: 45px;
+	width: 45px;
+}
+
+.logo {
+	height: 45px;
+	width: 45px;
+}
+
+.perfil{
+	height: 200px;
+	width: 200px;
+	border-radius: 200px;
+	margin: center;
+}
+
+.cima{
+	display: flex;
+	justify-content: center;
+	margin: 100px 0px 100px 0px;
+	font-family:new times roman;
+	font-style: normal;
+}
+
+
+.For p{
+	color:gray;
+}
+
+.s{
+	padding: 0px 200px;
+}
+
+.s p{
+	font-family:new times roman; ;
+    font-style: normal;
+    font-size: 1em;
+    color:gray;
+}
+
+.contatos{
+	color:white;
+	position: center;
+}
+
+.ProSempre{
+	text-align: center;
+	font-style: normal;
+	color:white;
+}
+
+
